@@ -1,0 +1,36 @@
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\MySql.Data.xml
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.frmAddOrEdit.resources
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MAX\Desktop\project\PhoneBook\PhoneBook\bin\Debug\DateTimeSelector.dll
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\DateTimeSelector.dll
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\bin\Debug\MySql.Data.xml
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.frmAddOrEdit.resources
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\MAX\Desktop\C# project\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
